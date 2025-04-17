@@ -1,4 +1,4 @@
-# SQL-Exercise---2
+# SQL-Exercise-2
 Aggregate Functions &amp; Grouping
 
 BrightLight Data Analytics
